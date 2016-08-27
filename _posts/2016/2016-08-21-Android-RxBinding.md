@@ -1,8 +1,8 @@
 ---
 layout: post
-title: RxBinding 学习笔记
+title: RxBinding 学习笔记1
 category: android
-tags: [android]
+tags: [wwwwwwww]
 ---
 
 RxJava binding APIs for Android's UI widgets. 学习的是 [JakeWharton 的版本](https://github.com/JakeWharton/RxBinding). 另外还有用于 mvvm 的 [ogaclejapan 版本](https://github.com/ogaclejapan/RxBinding).
